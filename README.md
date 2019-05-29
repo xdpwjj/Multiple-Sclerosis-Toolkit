@@ -23,6 +23,7 @@ ECTRIMS和欧洲神经病学学会（EAN）ECTRIMS-ACTRIMS
 参考文献：
 > 1.Sue Hughes. New MS Diagnostic Criteria Will Allow Earlier Diagnosis. Medscape. October 27, 2017.
 SACN.SA.17.11.7910a
+[Google Scholar-multiple sclerosis](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:multiple_sclerosis)
 
 ## Handbook
 
@@ -36,12 +37,9 @@ ECTRIMS和欧洲神经病学学会（EAN）合作编写2017版MS诊疗指南
 多发性硬化（MS）默沙东诊疗手册
 www.msdmanuals.com/zh/专业/神经系统疾病/脱髓鞘性疾病/多发性硬化-ms
 
-## 辅助检查：@TODO
+## Literature
 
-脑脊液
-IgG鞘内合成检测
-诱发电位
-MRI
+[Aminer](http://trend.aminer.cn/topic/trend?query=multiple%20sclerosis)
 
 ## changelog
 

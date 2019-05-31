@@ -29,7 +29,8 @@ Collection of website related to MS
 
 ## Institution
 
-复旦大学附属华山医院神经内科 全超医生
+复旦大学附属华山医院神经内科 王坚医生
+Tencent Medical AI FanWei
 
 ## Scholar
 

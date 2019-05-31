@@ -2,6 +2,8 @@
 
 Collection of website related to MS
 
+[多发性硬化症中文说明书下载链接 Booklet in Chinnese](https://mss-cdn.azureedge.net/-/media/596e8e5b56ed4a9dadde76bacbde3b26.pdf?la=en&sc_revision=90c6545f0c0245aab20bb227810b7537&hash=D25FE3FD6BAED262D4B6F7CC98E2EBC99678B754&hash=D25FE3FD6BAED262D4B6F7CC98E2EBC99678B754)
+
 ## Catalog
 
 - Society

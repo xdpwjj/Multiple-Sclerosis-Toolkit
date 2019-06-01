@@ -66,7 +66,7 @@ www.msdmanuals.com/zh/专业/神经系统疾病/脱髓鞘性疾病/多发性硬�
 
 ## New tech
 
-Tencent medical AI 
+Tencent Medical AI 
 
 ## changelog
 
